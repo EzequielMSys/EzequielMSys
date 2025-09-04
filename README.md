@@ -1,12 +1,12 @@
-<img src="https://sdmntprwestus3.oaiusercontent.com/files/00000000-d0c4-61fd-8581-1489885893da/raw?se=2025-08-12T16%3A39%3A51Z&sp=r&sv=2024-08-04&sr=b&scid=40b4f383-dd37-57ce-9eb7-17d2401ca66d&skoid=1e6af1bf-6b08-4a04-8919-15773e7e7024&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-12T14%3A23%3A15Z&ske=2025-08-13T14%3A23%3A15Z&sks=b&skv=2024-08-04&sig=U4GdeThIPkSgTeqfJxBsmEXZw7Un5OZf29YUyuh3iis%3D" alt="introdução" width="4000" height="200"/>
+<img width="1001" height="469" alt="image" src="https://github.com/user-attachments/assets/38461986-c488-46ba-b56b-37ed81f581af" />
 
 # 📄 **Perfil Prossional - Ezequiel Moisés dos Santos**
 ## 👤 Dados Pessoais
 - ### **Nome:** Ezequiel Moisés dos Santos
 - ### **Idade:** 17 anos
 - ### **Cidade:** Presidente Prudente
-- ### **Telefone:** (11) 98765-4321
-- ### **Email:**  emailqualquer@gmail.com
+- ### **Telefone:** (xx) xxxxx-xxxx
+- ### **Email:**  ezequiel.m.santos6@aluno.senai.br
 - ### **LinkedIn** 
 - ### **Github:** github.com/EzequielMSys
 ---
@@ -71,4 +71,11 @@ Atuar como desenvolvedor Back-end especializada na criação e manutenção de A
 - ### Leitura diversificada
 
 ## 📇Certificados
-<img width="525" height="736" alt="image" src="https://github.com/user-attachments/assets/2431b815-dcbc-4cf5-8879-5d86f4b090c7" />
+- ### Certificado - Por dentro da Segurança Cibernética
+- ### Certificado - Fundamentos da inteligência artificial
+- ### Certificado - Excel Básico
+- ### Certificado - Ética na inteligência artificial
+- ### Certificado - Desvendendo a Descarbonização
+- ### Certificado - Competência Transversal
+- ### Certificado - Implatação de Serviços em Nuvem - AWS Cloud
+- ### Certificado - Fundamentos do Python
