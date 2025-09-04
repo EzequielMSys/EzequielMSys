@@ -35,7 +35,7 @@ Atuar como desenvolvedor Back-end especializada na criação e manutenção de A
 - ### Por dentro da Segurança Cibernética
 ---
 ## 💻 Competências Técnicas
-- ### **Front-end:** HTML5, JavaScript
+- ### **Front-end:** <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/d5777ebf-5c03-4ef1-935b-4f0630e10052" /> <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/862876a0-6a41-457c-82e0-81472e050ae9" />
 - ### **Back-end:** Nodes.js
 - ### **Ferramentas:** GitHub
 ---
@@ -80,3 +80,4 @@ Atuar como desenvolvedor Back-end especializada na criação e manutenção de A
 - ### Certificado - Competência Transversal
 - ### Certificado - Implatação de Serviços em Nuvem - AWS Cloud
 - ### Certificado - Fundamentos do Python
+- ### Certificado - Inglês básico/intermediário
