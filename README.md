@@ -71,4 +71,4 @@ Atuar como desenvolvedor Back-end especializada na criação e manutenção de A
 - ### Leitura diversificada
 
 ## 📇Certificados
-<img src="<img width="525" height="736" alt="image" src="https://github.com/user-attachments/assets/2431b815-dcbc-4cf5-8879-5d86f4b090c7" />
+<img width="525" height="736" alt="image" src="https://github.com/user-attachments/assets/2431b815-dcbc-4cf5-8879-5d86f4b090c7" />
