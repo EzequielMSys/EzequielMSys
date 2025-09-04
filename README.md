@@ -35,7 +35,7 @@ Atuar como desenvolvedor Back-end especializada na criação e manutenção de A
 - ### Por dentro da Segurança Cibernética
 ---
 ## 💻 Competências Técnicas
-- ### **Front-end:** <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="50" heigth="65"/> <img src="[https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png)" width="50" heigth="65"/>
+- ### **Front-end:** <img src="https://static.vecteezy.com/system/resources/thumbnails/027/127/463/small_2x/javascript-logo-javascript-icon-transparent-free-png.png" width="50" heigth="65"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" width="50" heigth="65"/>
 - ### **Back-end:** Nodes.js
 - ### **Ferramentas:** GitHub
 ---
