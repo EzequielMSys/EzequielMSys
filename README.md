@@ -1,4 +1,5 @@
-<img width="1001" height="469" alt="image" src="https://github.com/user-attachments/assets/38461986-c488-46ba-b56b-37ed81f581af" />
+<img width="856" height="226" alt="image" src="https://github.com/user-attachments/assets/b736784e-d848-4ff7-b17e-e5512ea14df9" />
+
 
 # 📄 **Perfil Prossional - Ezequiel Moisés dos Santos**
 ## 👤 Dados Pessoais
