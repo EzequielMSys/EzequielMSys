@@ -25,7 +25,6 @@
 
 ---
 
-## 🎤 NANA'S STAGE
 
 <div align="center">
   ```diff
@@ -34,11 +33,12 @@
   + CURRENT ALBUM     → Constant Evolution
   + NEXT SHOW         → Building the Future
   + SIGNATURE SOUND   → Clean Code + Dark Vibes
+  ```
 </div>
 "Não é sobre o que você quer ser, é sobre o que você faz para chegar lá."
 – Nana Osaki
 
-📊 LIVE PERFORMANCE STATS
+📊 
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=EzequielMSys&show_icons=true&theme=dracula&hide_border=true&title_color=FF1493&icon_color=FF1493&text_color=ffffff&bg_color=0a0a0a" /> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=EzequielMSys&theme=dracula&hide_border=true&stroke=FF1493&background=0a0a0a&ring=FF1493&fire=FF1493&currStreakLabel=FF1493" /> </div> <div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielMSys&layout=compact&theme=dracula&hide_border=true&title_color=FF1493&text_color=ffffff&bg_color=0a0a0a" /> <img width="49%" src="https://novatorem.vercel.app/api/spotify?background_color=0a0a0a&border_color=FF1493&title_color=FF1493&text_color=ffffff" /> </div>
 🐍 THE SNAKE PIT
 <div align="center"> <img src="https://raw.githubusercontent.com/EzequielMSys/EzequielMSys/output/github-contribution-grid-snake.svg" alt="Snake animation"> </div>
