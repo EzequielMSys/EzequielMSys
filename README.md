@@ -10,7 +10,7 @@
 
 <div align="center">
     EZEQUIEL 
-
+<br>
   <img src="https://img.shields.io/badge/No%20future%20without%20risk-FF1493?style=for-the-badge&logo=rockrms&logoColor=white&labelColor=1a1a1a" alt="Risk Badge">
   
   **FullStack Developer | Python | Web | AI**
