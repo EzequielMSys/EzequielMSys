@@ -40,7 +40,7 @@
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=EzequielMSys&show_icons=true&theme=dark&hide_border=true&title_color=FF1493&text_color=fefefe&bg_color=0d1117&hide_rank=false"/> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=EzequielMSys&theme=dark&hide_border=true&stroke=FF1493&background=0d1117&ring=FF1493"/> </div> <div align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielMSys&layout=compact&theme=dark&hide_border=true&title_color=FF1493"/> <img width="47%" src="https://github-profile-trophy.vercel.app/?username=EzequielMSys&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true&title=FF1493,row=FF1493"/> </div>
 🎧 
 <div align="center">
-  <img height="160" src="https://open.spotify.com/user/YOUR_USERNAME/playlist/YOUR_PLAYLIST_ID?si=YOUR_SI_CODE/embed" />
+  <img height="160" src="https://open.spotify.com/intl-pt/track/3bpGAsjsCIMTz98E7injb2?si=f165c8701b2e4f80" />
 </div>
 🐍 
 <div align="center"> <img src="https://raw.githubusercontent.com/EzequielMSys/EzequielMSys/output/github-contribution-grid-snake.svg"> </div>
