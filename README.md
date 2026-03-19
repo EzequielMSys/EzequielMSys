@@ -38,9 +38,11 @@
 
 🔥 PERFORMANCE STATS
 <div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=EzequielMSys&show_icons=true&theme=dark&hide_border=true&title_color=FF1493&text_color=fefefe&bg_color=0d1117&hide_rank=false"/> <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=EzequielMSys&theme=dark&hide_border=true&stroke=FF1493&background=0d1117&ring=FF1493"/> </div> <div align="center"> <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielMSys&layout=compact&theme=dark&hide_border=true&title_color=FF1493"/> <img width="47%" src="https://github-profile-trophy.vercel.app/?username=EzequielMSys&theme=dracula&no-frame=true&column=7&margin-w=15&margin-h=15&no-bg=true&title=FF1493,row=FF1493"/> </div>
-🎧 Currently Jamming
-<div align="center"> <img width="350" src="https://spotify-github-profile.vercel.app/api/view?hash=YOUR_SPOTIFY_HASH_HERE" alt="Spotify Playing"/> </div>
-🐍 Snake Game
+🎧 
+<div align="center">
+  <img height="160" src="https://open.spotify.com/user/YOUR_USERNAME/playlist/YOUR_PLAYLIST_ID?si=YOUR_SI_CODE/embed" />
+</div>
+🐍 
 <div align="center"> <img src="https://raw.githubusercontent.com/EzequielMSys/EzequielMSys/output/github-contribution-grid-snake.svg"> </div>
 🎤 BLAST CREW
 <div align="center"> <img src="assets/blast-members.jpg" width="320"> <div style="margin-top: 20px;"> <img src="assets/nana-logo.jpg" width="160"> </div> </div> <div align="center" style="background: linear-gradient(45deg, #1a1a1a, #2d1b69); padding: 25px; border-radius: 15px; border: 1px solid #FF1493; margin: 20px 0;"> <h3 style="color: #FF1493; margin: 0 0 10px 0;">🖤 BLAST MODE: **ON** 🖤</h3> <p style="color: white; font-size: 16px;"><i>"If you don't take risks, you can't create a future."</i></p> </div>
