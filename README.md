@@ -2,37 +2,79 @@
   <img src="assets/blackstones-banner.jpg" width="100%">
 </p>
 
-<h1 align="center">🖤 EzequielMSys</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=30&center=true&vCenter=true&width=900&lines=Code+like+BLAST;No+future+without+risk;Python+%7C+Web+%7C+AI;Discipline+over+motivation;Dark+Vibes+Only+🖤">
-</p>
+# ⚡ EZEQUIEL 
+**No future without risk. | Python & Web Dev**
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=500&lines=Code+like+BLAST;Discipline+over+motivation;Dark+Vibes+Only+🖤;Pushing+the+limits...)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="assets/blast-members.jpg" width="95%">
-</p>
+</div>
 
 ---
 
-## 🎸 About Me
+## 🎸
 
+<table align="center">
+  <tr>
+    <td width="50%" style="border: none;">
+      <img src="assets/blast-members.jpg" width="100%">
+    </td>
+    <td width="50%" style="vertical-align: top; border: none;">
+      <br>
+      
 ```diff
-+ Desenvolvedor focado em evolução constante
-+ Python | Web | Inteligência Artificial
-+ Explorando minha criatividade com sistemas 
++ ROLE: FullStack Developer
++ GEAR: Python | JS | AI | SQL
++ STATUS: Constant Evolution
 ```
 
-<p align="center"> <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=red"> <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=red"> <img src="https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=sqlite&logoColor=red"> <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=red"> <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=red"> </p>
+  <blockquote>
+    "Não é sobre o que você quer ser, é sobre o que você faz para chegar lá."
+  </blockquote>
+  
+  <p align="left">
+    <img src="https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=red">
+    <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=red">
+    <img src="https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=sqlite&logoColor=red">
+    <img src="https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=red">
+  </p>
+</td>
+</tr>
+</table>
 
-<p align="center"> <img src="https://novatorem.vercel.app/api/spotify"/> </p>
+🎧 STAGE STATS
+<div align="center">
+<img src="https://novatorem.vercel.app/api/spotify" width="400px">
+</div>
 
-<p align="center"> <img height="170em" src="https://github-readme-stats.vercel.app/api?username=EzequielMSys&show_icons=true&theme=tokyonight&hide_border=true"/> </p> <p align="center"> <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=EzequielMSys&theme=tokyonight&hide_border=true"/> </p>
+<table align="center">
+<tr>
+<td align="center" border="0">
+<img height="165em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DEzequielMSys%26show_icons%3Dtrue%26theme%3Dblood%26hide_border%3Dtrue%26title_color%3Dff0000%26icon_color%3Dff0000%26text_color%3Dffffff%26bg_color%3D00000000"/>
+</td>
+<td align="center" border="0">
+<img height="165em" src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DEzequielMSys%26theme%3Dblood%26hide_border%3Dtrue%26stroke%3Dff0000%26background%3D00000000%26ring%3Dff0000%26fire%3Dff0000%26currStreakLabel%3Dff0000"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img width="100%" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DEzequielMSys%26layout%3Dcompact%26theme%3Dblood%26hide_border%3Dtrue%26title_color%3Dff0000%26text_color%3Dffffff%26bg_color%3D00000000"/>
+</td>
+</tr>
+</table>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EzequielMSys&layout=compact&theme=tokyonight&hide_border=true"/> </p>
+🐍 
+<div align="center">
+<img src="https://github.com/EzequielMSys/EzequielMSys/blob/output/github-contribution-grid-snake.svg">
+</div>
 
-<p align="center"> <img src="https://github.com/EzequielMSys/EzequielMSys/blob/output/github-contribution-grid-snake.svg"> </p>
-<p align="center"> <img src="assets/nana-logo.jpg" width="320"> </p>
+<p align="center">
+<img src="assets/nana-logo.jpg" width="250">
 
-<p align="center"> <i>"If you don’t take risks, you can’t create a future."</i> </p> <p align="center"> 🖤 Built with attitude | BLAST Vibes </p> ```
+
+<i>"If you don’t take risks, you can’t create a future."</i>
+
+
+<b>🖤 Built with attitude | BLAST Vibes</b>
+</p>
