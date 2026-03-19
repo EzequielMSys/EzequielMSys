@@ -35,25 +35,6 @@ Copy code
 ---
 
 ## 🎸
-🎵 **Status
-
-📈 **Level
-
-Role
-
-FullStack Rockstar
-
-Gear
-
-Python • JS • AI • SQL
-
-Status
-
-🔴 **LIVE
-
-Next Gig
-
-Building Future
 
 "Não é sobre o que você quer ser, é sobre o que você faz para chegar lá."
 – Nana Osaki
